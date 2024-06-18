@@ -4,7 +4,9 @@
 
 <div style="text-align: justify;">
 
-  O seguinte ReadMe (leia-me) detalha como se deu a criação do projeto em questão que se baseia em um chat interativo feito na linguagem de programação Python. O referido, funciona via IntraNet (Rede Interna) onde o usuário que deseja se conectar é requerido seu nome de usuário e o IP (Internet Protocol) do servidor. Esse por sua vez, o servidor, acompanha o chat de maneira ineterrupta durante toda a comunicação entre os usuários, apelidamos eles de clientes para melhor entendimento do processo de criação dos códigos. Esse projeto tem por finalidade, além de promover a comunicação entre dois usuários ou mais, um ambiente social saudável, visto que o foco do mesmo se fundamenta no combate a identificação do discurso de ódio, por ventura o mesmo traz consigo consequências danosas se assim for deixado somente como pauta de debate filosófico e não prática ativa dentro da sociedade. Tais medidas, tem como fim tornar a comunicação acolhedora para todos os seus participantes.
+  O seguinte ReadMe (leia-me) detalha como se deu a criação do projeto em questão que se baseia em um chat interativo feito na linguagem de programação Python. O referido, funciona via IntraNet (Rede Interna) onde o usuário que deseja se conectar é requerido seu nome de usuário e o IP (Internet Protocol) do servidor. Esse por sua vez, o servidor, acompanha o chat de maneira ineterrupta durante toda a comunicação entre os usuários, apelidamos eles de clientes para melhor entendimento do processo de criação dos códigos.
+  
+  Esse projeto tem por finalidade, além de promover a comunicação entre dois usuários ou mais, um ambiente social saudável, visto que o foco do mesmo se fundamenta no combate a identificação do discurso de ódio, por ventura o mesmo traz consigo consequências danosas se assim for deixado somente como pauta de debate filosófico e não prática ativa dentro da sociedade. Tais medidas, tem como fim tornar a comunicação acolhedora para todos os seus participantes.
 
 ### Funcionalidades Disponíveis (até o momento 18/06/2024):
 
@@ -20,8 +22,8 @@
 - Além da funcionalidade citada acima, a respeito do classificador de sentimentos (positivos, negativos e/ou neutros) o BERTimbau foi usado para dar ênfase e combater o discurso de ódio, visto que o mesmo, aplica uma multa (funcionalidade implementada posteriormente) ao usuário que assim optar por continuadamente insistir em usar dessa linguagem;
 
 ### Observações:
-1ª. É entendido que, apesar de todo o esforço dedicado a este projeto, o dataset referido não comporta totalmente todas as possibilidades existentes de como uma palavra ou conjunto de frases tendem a se apresentar em meio a um contexto complexo na rede, isso posto, entende-se que muitas frases ainda apresentem divergência quanto ao entendimento humano se comparado a como o código entende como fixa ou não alterável;
+- 1ª. É entendido que, apesar de todo o esforço dedicado a este projeto, o dataset referido não comporta totalmente todas as possibilidades existentes de como uma palavra ou conjunto de frases tendem a se apresentar em meio a um contexto complexo na rede, isso posto, entende-se que muitas frases ainda apresentem divergência quanto ao entendimento humano se comparado a como o código entende como fixa ou não alterável;
 
-2ª. O projeto tem como data final (30/12/2024), visto que é a data aproximadada de término de minha graduação no curso citado anteriormente no começo desse ReadMe (Leia-me);
+- 2ª. O projeto tem como data final (30/12/2024), visto que é a data aproximadada de término de minha graduação no curso citado anteriormente no começo desse ReadMe (Leia-me);
 
-3ª. "Variações imprevisíveis de comportamento guardam a chave para as portas da mente, onde tudo é nada e nada é tudo. - Chuck Schuldiner (DEATH)"
+- 3ª. "Variações imprevisíveis de comportamento guardam a chave para as portas da mente, onde tudo é nada e nada é tudo. - Chuck Schuldiner (DEATH)"
