@@ -6,10 +6,11 @@ O seguinte leia-me detalha como se deu a criação do projeto em questão que se
 
 ### Funcioalidades Disponíveis (até o momento 18/06/2024):
 
-- Cliente(s) e servidor se conectam através de um IP e portas pré-definidos e mostrados na tela do servidor;
+- Cliente(s) e servidor se conectam através de um IP e portas pré-definidos via código Python (Ambos mostrados na tela do servidor);
 - Envio de mensagens de um para o outro, ambos os conectados podem observar as mensagens;
 - Mensagem de Boas-vindas quando um novo cliente se conecta;
 - Acompanhamento do Bate-papo pelo servidor;
 - Registro do Bate-papo em um arquivo *.txt contendo: Data e Hora de todas as mensagens para posterior análise pelo administrador do servidor - apenas a titulo de “auditoria” posteriormente pelo administrador;
 - Banimento manual pelo servidor tanto por IP (ainda a ser implementado, visto que o chat é somente IntraNet e tal funcionalidade não há ainda a urgência para ser realizada, restringindo-se somente ao banimento por nome) do cliente conectado quanto pelo seu nome de usuário, impossibilitando que este venha a se conectar em caso de alterar o nome ou variação do nome em caso de banimento tente se reconectar ao servidor - letras maiúsculas ou minusculas como exemplo. ex: gabriel; gAbriel);
 - Tentativas falhas de conexão do usuário banido são mostradas na aba reservada ao servidor.
+
