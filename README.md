@@ -6,7 +6,9 @@
 
   O seguinte ReadMe (leia-me) detalha como se deu a criação do projeto em questão que se baseia em um chat interativo feito na linguagem de programação Python. O referido, funciona via IntraNet (Rede Interna) onde o usuário que deseja se conectar é requerido seu nome de usuário e o IP (Internet Protocol) do servidor. Esse por sua vez, o servidor, acompanha o chat de maneira ineterrupta durante toda a comunicação entre os usuários, apelidamos eles de clientes para melhor entendimento do processo de criação dos códigos.
   
-  Esse projeto tem por finalidade, além de promover a comunicação entre dois usuários ou mais, um ambiente social saudável, visto que o foco do mesmo se fundamenta no combate a identificação do discurso de ódio, por ventura o mesmo traz consigo consequências danosas se assim for deixado somente como pauta de debate filosófico e não prática ativa dentro da sociedade. Tais medidas, tem como fim tornar a comunicação acolhedora para todos os seus participantes.
+  Esse projeto tem por finalidade, além de promover a comunicação entre dois usuários ou mais, um ambiente social saudável, visto que o foco do mesmo se fundamenta no combate a identificação do discurso de ódio, por ventura o mesmo traz consigo consequências danosas se assim for deixado somente como pauta de debate filosófico e não no seu combate ativo dentro da sociedade.
+  
+  Tais medidas, tem como fim tornar a comunicação acolhedora para todos os seus participantes para que assim possamos almejar com um futuro menos danosos a todos.
 
 ### Funcionalidades Disponíveis (até o momento 18/06/2024):
 
