@@ -28,4 +28,11 @@
 
 - 2ª. O projeto tem como data final (30/12/2024), visto que é a data aproximadada de término de minha graduação no curso citado anteriormente no começo desse ReadMe (Leia-me);
 
-- 3ª. "Variações imprevisíveis de comportamento guardam a chave para as portas da mente, onde tudo é nada e nada é tudo. - Chuck Schuldiner (DEATH)"
+### Como usar:
+- Primeiramente, Inicialmente é necessário que você inicie o servidor, arquivo 'servidor.py' (necessita-se da versão atual do Python3 ou superiro como sendo o seu interpretador de código. Além disso, fica também como opcional você usar um IDE gráfica para rodar os códigos), visto que aplicando as permissões de execução (Linux ou WIndows) o arquivo uma janela de dialogo automáticamente contendo o referido chat. Onde possui duas abas interativas, onde uma é a 'Página Inicial' ou particularmente apelidada de 'Home'e a outra serve para acompanhamento de banimentos ou seja, tentivas falhas de conexão de usuários banidos do servidor, além de este fornecer o IP e nome de quem por ventura está repentinamente tentando conexão com o servidor apesar de seu banimento;
+
+- Segundamente, após iniciar o servidor, você poderá executar os arquivos referentes aos clientes, nomeados como 'cliente_1.py'. Quanto a posição ou número do cliente, isso pouco importa no projeto como um todo, foi feita essa identificação inicial para permitir que possamos ter noção mínima de quem foi o primeiro ou segundo cliente a se conectar, assim sendo, é possível números inifinitos de clientes neste chat. Mas foi delimitado para somente 5 usuários simultâneos conectados de forma conjunta, em caso de uma tentativa além das permitidas, é enviada uma mensagem de alerta para o novo usuário;
+
+- Por fim, com ambos os arquivos abertos, você deverá Informar nos 'clientes_x.py' seu nome de usuário, nome desejado para uso, IP do servidor e porta de conexão. Lembrando que o mesmo ainda funciona em rede local, sem depender de um servidor externo para seu pleno funcionamento;
+
+- Depois de você ter realizado todos esses procedimentos, você estará apto a usar o chat. :D
