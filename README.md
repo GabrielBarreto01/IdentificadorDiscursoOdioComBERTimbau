@@ -10,7 +10,7 @@
   
   Tais medidas, tem como fim tornar a comunicação acolhedora para todos os seus participantes para que assim possamos almejar com um futuro menos danosos a todos.
 
-### Funcionalidades Disponíveis (até o momento 18/06/2024):
+### Funcionalidades Disponíveis (atualizado até 21/06/2024):
 
 - Cliente(s) e servidor se conectam através de um IP e portas pré-definidos via código Python (Ambos mostrados na tela do servidor);
 - Envio de mensagens de um para o outro, ambos os conectados podem observar as mensagens;
@@ -26,7 +26,7 @@
 ### Observações:
 - 1ª. É entendido que, apesar de todo o esforço dedicado a este projeto, o dataset referido não comporta totalmente todas as possibilidades existentes de como uma palavra ou conjunto de frases tendem a se apresentar em meio a um contexto complexo na rede, isso posto, entende-se que muitas frases ainda apresentem divergência quanto ao entendimento humano se comparado a como o código entende como fixa ou não alterável;
 
-- 2ª. O projeto tem como data final (30/12/2024), visto que é a data aproximadada de término de minha graduação no curso citado anteriormente no começo desse ReadMe (Leia-me);
+- 2ª. O projeto tem como data final (30/12/2024), salientando que é a data aproximadada de término de minha graduação no curso citado anteriormente no começo desse ReadMe (Leia-me);
 
 ### Como usar:
 - Primeiramente, Inicialmente é necessário que você inicie o servidor, arquivo 'servidor.py' (necessita-se da versão atual do Python3 ou superiro como sendo o seu interpretador de código. Além disso, fica também como opcional você usar um IDE gráfica para rodar os códigos), visto que aplicando as permissões de execução (Linux ou WIndows) o arquivo uma janela de dialogo automáticamente contendo o referido chat. Onde possui duas abas interativas, onde uma é a 'Página Inicial' ou particularmente apelidada de 'Home'e a outra serve para acompanhamento de banimentos ou seja, tentivas falhas de conexão de usuários banidos do servidor, além de este fornecer o IP e nome de quem por ventura está repentinamente tentando conexão com o servidor apesar de seu banimento;
