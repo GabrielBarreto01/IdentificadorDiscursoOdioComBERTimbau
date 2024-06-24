@@ -35,6 +35,10 @@
 
 - Segundamente, após iniciar o servidor, você poderá executar os arquivos referentes aos clientes, nomeados como 'cliente_1.py'. Quanto a posição ou número do cliente, isso pouco importa no projeto como um todo, foi feita essa identificação inicial para permitir que possamos ter noção mínima de quem foi o primeiro ou segundo cliente a se conectar, assim sendo, é possível números inifinitos de clientes neste chat. Mas foi delimitado para somente 5 usuários simultâneos conectados de forma conjunta, em caso de uma tentativa além das permitidas, é enviada uma mensagem de alerta para o novo usuário;
 
+<img src="servidor_usuario.png" alt="">
+<img src="servidor_porta.png" alt="">
+<img src="servidor_ip.png" alt="">
+
 - Por fim, com ambos os arquivos abertos, você deverá Informar nos 'clientes_x.py' seu nome de usuário, nome desejado para uso, IP do servidor e porta de conexão. Lembrando que o mesmo ainda funciona em rede local, sem depender de um servidor externo para seu pleno funcionamento;
 
 - Depois de você ter realizado todos esses procedimentos, você estará apto a usar o chat. :D
