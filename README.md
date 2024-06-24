@@ -41,4 +41,6 @@
 
 - Por fim, com ambos os arquivos abertos, você deverá Informar nos 'clientes_x.py' seu nome de usuário, nome desejado para uso, IP do servidor e porta de conexão. Lembrando que o mesmo ainda funciona em rede local, sem depender de um servidor externo para seu pleno funcionamento;
 
+<img src="conexao_ok.png" alt="">
+
 - Depois de você ter realizado todos esses procedimentos, você estará apto a usar o chat. :D
