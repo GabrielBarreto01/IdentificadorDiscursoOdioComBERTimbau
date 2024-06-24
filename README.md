@@ -31,7 +31,7 @@
 ### Como usar:
 - Primeiramente, Inicialmente é necessário que você inicie o servidor, arquivo 'servidor.py' (necessita-se da versão atual do Python3 ou superior,ele será o seu interpretador de código. Além disso, fica de forma opcional você usar um IDE gráfica para rodar os códigos), visto que aplicando as permissões de execução (Linux ou Windows) o arquivo abre uma janela de dialogo automáticamente contendo o referido chat. Onde possui duas abas interativas, onde uma é a 'Página Inicial' ou particularmente apelidada de 'Home' e a outra serve para acompanhamento de banimentos além de acompanhar as tentivas falhas de conexão de usuários banidos do servidor, além deste fornecer o IP e nome de quem por ventura está repentinamente tentando conexão com o servidor apesar de seu banimento;
 
-<img src="chat_servidor_1.png" alt="Image" height="500" width="500">
+<img src="chat_servidor_1.png" alt="Image" height="450" width="450">
 
 - Segundamente, após iniciar o servidor, você poderá executar os arquivos referentes aos clientes, nomeados como 'cliente_1.py'. Quanto a posição ou número do cliente, isso pouco importa no projeto como um todo, foi feita essa identificação inicial para permitir que possamos ter noção mínima de quem foi o primeiro ou segundo cliente a se conectar, assim sendo, é possível números inifinitos de clientes neste chat. Mas foi delimitado para somente 5 usuários simultâneos conectados de forma conjunta, em caso de uma tentativa além das permitidas, é enviada uma mensagem de alerta para o novo usuário;
 
@@ -41,6 +41,6 @@
 
 - Por fim, com ambos os arquivos abertos, você deverá Informar nos 'clientes_x.py' seu nome de usuário, nome desejado para uso, IP do servidor e porta de conexão. Lembrando que o mesmo ainda funciona em rede local, sem depender de um servidor externo para seu pleno funcionamento;
 
-<img src="conexao_ok.png" alt="Image" height="42" width="42">
+<img src="conexao_ok.png" alt="Image" height="420" width="420">
 
 - Depois de você ter realizado todos esses procedimentos, você estará apto a usar o chat. :D
