@@ -43,11 +43,11 @@
 
 - Depois de você ter realizado todos esses procedimentos, você estará apto a usar o chat. :D
 
-Abaixo podemos verificar o chat em pleno funcionamento, junto com a classificação do discuro analisado.
+- Abaixo podemos verificar o chat em pleno funcionamento, junto com a classificação do discuro analisado.
 
 <img src="envio_de_mensagens_classificacao.png" alt="Image">
 
-Por fim, temos algumas métricas em que o servidor possa vir a usar como base futuramente para outra pesquisa ou o desenvolvimento mais aprofundado do projeto.
+- Por fim, temos algumas métricas em que o servidor possa vir a usar como base futuramente para outra pesquisa ou o desenvolvimento mais aprofundado do projeto.
 
 <img src="metricas_base.png" alt="Image">
 
