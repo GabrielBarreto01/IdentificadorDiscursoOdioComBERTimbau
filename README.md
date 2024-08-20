@@ -1,4 +1,4 @@
-## Chat em Python com Identificador de Discurso de Odio com auxilio do BERTimbau e Dataset HATE-BR.
+## Chat em Python com Identificador de Discurso de Odio com auxilio do BERTimbau em consonância ao Dataset 'HATE-BR'.
 
 #### Olá, me chamo Gabriel Barreto e sou estudante de Segurança da Informação pela Universidade Federal do Ceará - Campus Jardins de Anita. Hoje, lhes apresento o seguinte projeto que desenvolvi ao longo de minha graduação com apoio do Dr. Prof. Juan Sebastian Toquica, docente pela mesma universidade.
 
