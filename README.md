@@ -47,8 +47,8 @@
 
 <img src="envio_de_mensagens_classificacao.png" alt="Image">
 
-- Por fim, temos algumas métricas em que o servidor possa vir a usar como base futuramente para outra pesquisa ou o desenvolvimento mais aprofundado do projeto.
-
+- Por fim, temos algumas métricas(bases):
+- 
 <img src="metricas_base.png" alt="Image">
 
-
+- Por fim, saliento que ainda há de se desenvolver métricas bases como acurácia, f1-score dentre outras, ainda em processo de desenvolvimento.
