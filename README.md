@@ -10,19 +10,18 @@
 
 ### Funcionalidades Disponíveis (atualizado até 18/11/2024):
 
-- Cliente(s) e servidor se conectam através de um IP e portas pré-definidos via código Python (Ambos mostrados na tela do servidor);
+- Cliente(s) e servidor se conectam através de um IP e porta pré-definidos via código Python (ambos mostrados na tela do servidor);
 - Envio de mensagens de um para o outro, ambos os conectados podem observar as mensagens;
 - Mensagem de Boas-vindas quando um novo cliente se conecta;
 - Acompanhamento do Bate-papo pelo servidor;
-- Registro do Bate-papo em um arquivo *.txt contendo: Data e Hora de todas as mensagens para posterior análise pelo administrador do servidor - apenas a titulo de “auditoria” posteriormente pelo administrador;
+- Registro do Bate-papo em um arquivo *.txt contendo: Data e Hora de todas as mensagens para uma posterior análise pelo administrador do servidor - apenas a titulo de “auditoria” posteriormente pelo administrador do mesmo;
 - Banimento manual pelo servidor tanto por IP (ainda a ser implementado, visto que o chat é somente IntraNet e tal funcionalidade não há ainda a urgência para ser realizada, restringindo-se somente ao banimento por nome) do cliente conectado quanto pelo seu nome de usuário, impossibilitando que este venha a se conectar em caso de alterar o nome ou variação do nome em caso de banimento tente se reconectar ao servidor - letras maiúsculas ou minusculas como exemplo. ex: gabriel; gAbriel);
 - Tentativas falhas de conexão do usuário banido são mostradas na aba reservada ao servidor.
-- Regionalismo para com palavras que possuam duplo sentido da região Nordeste;
-- As mensagens são analisadas pelo BERTimbau (classificador) e é exibiido na tela do servidor sua respectiva classificação, como sendo 0 - Negativo, 1 - Positivo, ou se nenhum dos conceitos assim se aplicar, é classificado como sentimento neutro.
-- Além da funcionalidade citada acima, a respeito do classificador de sentimentos (positivos, negativos e/ou neutros) o BERTimbau foi usado para dar ênfase e combater o discurso de ódio, visto que o mesmo, aplica uma multa (funcionalidade implementada posteriormente) ao usuário que assim optar por continuadamente insistir em usar dessa linguagem;
+- As mensagens são analisadas pelo BERTimbau (classificador) e é exibiido na tela do servidor sua respectiva classificação, como sendo 0 - Negativo para o discurso de ódio/ofensivo e 1 - Positivo para o discurso de ódio/ofensivo.
+- Além da funcionalidade citada acima, a respeito do classificador de sentimentos (positivos ou negativos) o BERTimbau foi usado para dar ênfase e combater o discurso de ódio, visto que o mesmo, aplica uma multa (funcionalidade ainda a ser implementada posteriormente) ao usuário que assim optar por continuadamente insistir em usar dessa linguagem;
 
 ### Observações:
-- 1ª. É entendido que, apesar de todo o esforço dedicado a este projeto, o dataset hate-br reaproveitado não comporta totalmente todas as possibilidades existentes de como uma palavra ou conjunto de frases tendem a se apresentar em meio a um contexto complexo na rede, isso posto, entende-se que muitas frases ainda apresentem divergência quanto ao entendimento humano e seu real significado se comparado a como a linguagem humana defina como fixa ou não alterável;
+- 1ª. É entendido que, apesar de todo o esforço dedicado a este projeto, o dataset 'hate-br' então reaproveitado, não comporta totalmente todas as possibilidades existentes de como uma palavra ou conjunto de frases tendem a se apresentar em meio a um contexto complexo na rede, isso posto, entende-se que muitas frases ainda apresentem divergência quanto ao entendimento humano e seu real significado se comparado a como a linguagem humana defina como fixa ou não alterável;
 
 - 2ª. O projeto teve como data final (01/10/2024), salientando que é a data concreta de término de minha graduação no curso citado anteriormente no começo deste ReadMe (Leia-me);
 
