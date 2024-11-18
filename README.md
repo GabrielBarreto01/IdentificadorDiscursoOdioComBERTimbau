@@ -8,7 +8,7 @@
   
   Esse projeto tem por finalidade, além de promover a comunicação entre dois usuários ou mais um ambiente social saudável. Visto que o foco do mesmo se fundamenta no combate ao discurso de ódio, por ventura o mesmo traz consigo consequências danosas se assim for deixado somente como pauta do debate filosófico. Tais medidas, tem como fim tornar a comunicação acolhedora para todos os seus participantes para que assim possamos almejar com um futuro menos danosos a todos.
 
-### Funcionalidades Disponíveis (atualizado até 12/08/2024):
+### Funcionalidades Disponíveis (atualizado até 18/11/2024):
 
 - Cliente(s) e servidor se conectam através de um IP e portas pré-definidos via código Python (Ambos mostrados na tela do servidor);
 - Envio de mensagens de um para o outro, ambos os conectados podem observar as mensagens;
@@ -24,10 +24,12 @@
 ### Observações:
 - 1ª. É entendido que, apesar de todo o esforço dedicado a este projeto, o dataset hate-br reaproveitado não comporta totalmente todas as possibilidades existentes de como uma palavra ou conjunto de frases tendem a se apresentar em meio a um contexto complexo na rede, isso posto, entende-se que muitas frases ainda apresentem divergência quanto ao entendimento humano e seu real significado se comparado a como a linguagem humana defina como fixa ou não alterável;
 
-- 2ª. O projeto tem como data final (30/09/2024), salientando que é a data aproximadada de término de minha graduação no curso citado anteriormente no começo desse ReadMe (Leia-me);
+- 2ª. O projeto teve como data final (01/10/2024), salientando que é a data concreta de término de minha graduação no curso citado anteriormente no começo deste ReadMe (Leia-me);
 
 ### Como usar:
-- Primeiramente, Inicialmente é necessário que você inicie o servidor através do arquivo 'servidor.py', saliento que você necessita da versão atual do Python3 ou superior, ele será o seu interpretador de código. Além disso, fica de forma opcional você usar um IDE ou gráfica para rodar os códigos aqui disponibilizados, aplicando as permissões de execução (Linux ou Windows) o arquivo abre uma janela de dialogo automáticamente contendo o referido chat. O mesmo possui duas abas interativas, onde uma é a 'Página Inicial' ou particularmente apelidada de 'Home' e a outra serve para acompanhamento de banimentos, além de acompanhar as tentivas falhas de conexão de usuários banidos do servidor, fornecendo o 'IP' e 'Nome' de quem por ventura está repentinamente tentando conexão com o servidor apesar de seu banimento.
+- Antes de tudo, é necessário instalar as seguintes bibliotecas com o comando: 'pip install transformers numpy torch scipy'. As biliotecas citadas servem para que seja possível a execução e abertura da janela referente ao bate-papo, em especial do servidor, o cerebro por parte disso tudo. Logo após isso, se faz necessáro também na sua outra máquina de sua preferência, a instalação das bibliotecas quanto ao código do cliente com o comando: 'pip install numpy scipy transformers' e assim também (se usuário Linux) executar o seguinte comando: 'sudo apt-get install python3-tk'. No windows o tkinter já vem instalado por padrão.
+  
+- Após o procedimento citado, se faz necessário que você inicie o servidor através do arquivo 'servidor.py', saliento que você necessitará da versão atual do Python3 ou superior, ele será o seu interpretador de código. Além disso, fica de forma opcional você usar um IDE Gráfica (ex: Pycharm) para rodar os códigos aqui disponibilizados, aplicando as permissões de execução, sejam estas no Linux ou Windows, o arquivo abre uma janela de diálogo automáticamente contendo o referido chat. O mesmo possui duas abas interativas, onde uma é a 'Página Inicial' ou particularmente apelidada de 'Home' e a outra serve para acompanhamento de banimentos, além de acompanhar as tentivas falhas de conexão de usuários banidos do servidor, fornecendo o 'IP' e 'Nome' de quem por ventura está repentinamente tentando conexão com o servidor apesar de seu banimento.
 
 <img src="chat_servidor_1.png" alt="Image" height="450" width="450">
 
