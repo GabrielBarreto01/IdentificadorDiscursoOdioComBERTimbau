@@ -51,4 +51,4 @@
 - Por fim, temos algumas métricas geradas automaticamente:
 <img src="metricas_base.png" alt="Image">
 
-- Saliento que ainda há de se desenvolver métricas bases como acurácia, f1-score dentre outras, ainda em processo de desenvolvimento.
+### Funcionalidade de cada pedaço do código (atualizado até 18/11/2024):
