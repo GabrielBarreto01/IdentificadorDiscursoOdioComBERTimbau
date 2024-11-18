@@ -48,7 +48,7 @@
 
 <img src="envio_de_mensagens_classificacao.png" alt="Image">
 
-- Por fim, temos algumas métricas(bases):
+- Por fim, temos algumas métricas geradas automaticamente:
 <img src="metricas_base.png" alt="Image">
 
 - Saliento que ainda há de se desenvolver métricas bases como acurácia, f1-score dentre outras, ainda em processo de desenvolvimento.
