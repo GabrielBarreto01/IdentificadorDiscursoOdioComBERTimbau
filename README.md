@@ -51,4 +51,5 @@
 - Por fim, temos algumas métricas geradas automaticamente:
 <img src="metricas_base.png" alt="Image">
 
-### Explicação para cada parte do código referente ao servidor (atualizado até 18/11/2024):
+<!-- ### Explicação para cada parte do código referente ao servidor -->
+(atualizado até 18/11/2024)
